@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.efc9b199.css",
+    "main.js": "/static/js/main.16b551fe.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/bikes Rappi.png": "/static/media/bikes Rappi.7c7be68e23e10f9fac65.png",
+    "static/media/medEbike.jpg": "/static/media/medEbike.4bde00c5f42d09533c1b.jpg",
+    "static/media/dss.png": "/static/media/dss.6597ea280ff887ff0f50.png",
+    "static/media/ball_mapmarker_pink_icon.png": "/static/media/ball_mapmarker_pink_icon.84b379a8a91170e86483.png",
+    "static/media/Sprinter Van 516.jpg": "/static/media/Sprinter Van 516.6ea05a3661216c54b618.jpg",
+    "index.html": "/index.html",
+    "main.efc9b199.css.map": "/static/css/main.efc9b199.css.map",
+    "main.16b551fe.js.map": "/static/js/main.16b551fe.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efc9b199.css",
+    "static/js/main.16b551fe.js"
+  ]
+}
